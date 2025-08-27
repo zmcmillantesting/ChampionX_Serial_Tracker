@@ -1,3 +1,1 @@
-print("hello world")
-
-print('This is a new feature')
+print("I am now actively working on this serial tracker")
